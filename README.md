@@ -31,3 +31,23 @@ This BMI Calculator allows users to input their weight and height, calculates th
 - Python 3.x
 - Tkinter (included in most Python installations)
 - Matplotlib
+
+## Installation
+
+1. Clone the repository:
+   git clone https://github.com/your-username/bmi-calculator.git
+Navigate to the project directory:
+cd bmi-calculator
+
+Install the required dependencies:
+pip install -r requirements.txt
+
+## Usage
+Run the BMI Calculator app by executing the following command:
+python bmi_calculator.py
+Follow the on-screen instructions to input weight and height, calculate BMI, save data, and view historical data.
+
+## Screenshots
+![image](https://github.com/VEDAMNT/oibsip_taskno2/assets/99802920/6793588c-f2d6-45b3-8a38-e265b6a522e3)
+![image](https://github.com/VEDAMNT/oibsip_taskno2/assets/99802920/10e821bb-a195-4ec1-93d3-fd76dead7c10)
+
